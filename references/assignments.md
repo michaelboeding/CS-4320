@@ -25,18 +25,18 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | **Technology Archicture and Software Design** ||
 | 1. Design | 5% |  Tuesday, September 29, 2020 | [Design Readings](../05-architecture-design/_design_readings.md) | 
 | **Human Computer Interaction and Social Computing** ||
-| 1. User Experience Focus + Integration Focus | 5% | Saturday, October 3, 2020 | [TBD]() |
+| 1. User Experience Focus + Integration Focus | 5% | Tuesday, October 6, 2020 | [HCI and Social Computing](../06-hci-social-computing/readings/readings.md) |
 | **Construction** ||
-| 1. TBD | 5% | Saturday, October 10, 2020 |  [TBD]() |
-| 2. Deployment | 5% | Saturday, October 10, 2020 | tbd |
+| 1. TBD | 5% | Tuesday, October 13, 2020 |  [TBD]() |
+| 2. Deployment | 5% | Tuesday, October 13, 2020 | tbd |
 | **Testing** ||
-| 1. Testing | 5% | Saturday, October 17, 2020 |  [TBD]() |
+| 1. Testing | 5% | Tuesday, October 20, 2020 |  [TBD]() |
 | **Maintenance and Evolution**
-| 1. TBD | 5% | Saturday, October 24, 2020 | [TBD]() |
+| 1. TBD | 5% | Tuesday, October 27, 2020 | [TBD]() |
 | **Software Engineering Projects** ||
 | 1. Requirements Analysis for Semester Project | 34% | Five iterations due between Saturday, October 31, 2020 and Saturday December 12, 2020 | [TBD]() |
 | **Essential Orthogonal Disciplines** ||
-| 1. Documentation | 2% | Saturday, November 7, 2020 | [TBD]() |
-| 2. Security | 2% | Saturday, November 7, 2020 | [TBD]() |
+| 1. Documentation | 2% | Tuesday, November 10, 2020 | [TBD]() |
+| 2. Security | 2% | Tuesday, November 10, 2020 | [TBD]() |
 | **Mutual Aid and Discussion Forum Engagement Quality** ||
 | 1. Engagement | 10% | Analysis of Class Participation and Contribution Throughout, with team feedback. | - |
