@@ -1,0 +1,8 @@
+# Module Seven
+Please consult [assignments](./references/assignments.md) for due dates. 
+1. [Readings](./readings/readings.md)
+2. [Slides](./slides)
+3. [Exercises](./exercises/exercises.md)
+
+## Videos
+1. [Construction and Testing Lecture *adding to our showcase*](https://vimeo.com/showcase/7480038)
