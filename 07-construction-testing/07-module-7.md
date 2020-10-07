@@ -5,4 +5,4 @@ Please consult [assignments](./references/assignments.md) for due dates.
 3. [Exercises](./exercises/exercises.md)
 
 ## Videos
-1. [Construction and Testing Lecture *adding to our showcase*](https://vimeo.com/showcase/7480038)
+1. [Construction and Testing Lecture](https://vimeo.com/sociotechnika/review/465596201/e38b8dee05)
