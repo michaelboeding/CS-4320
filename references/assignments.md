@@ -26,11 +26,11 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 1. Design | 5% |  Tuesday, September 29, 2020 | [Design Readings](../05-architecture-design/_design_readings.md) | 
 | **Human Computer Interaction and Social Computing** ||
 | 1. User Experience Focus + Integration Focus | 5% | Tuesday, October 6, 2020 | [HCI and Social Computing](../06-hci-social-computing/readings/readings.md) |
-| **Construction** ||
-| 1. TBD | 5% | Tuesday, October 13, 2020 |  [TBD]() |
-| 2. Deployment | 5% | Tuesday, October 13, 2020 | tbd |
 | **Testing** ||
-| 1. Testing | 5% | Tuesday, October 20, 2020 |  [TBD]() |
+| 1. Testing | 5% | Tuesday, October 14, 2020 |  [Construction and Testing](../07-construction-testing/readings/readings.md) |
+| **Construction and Deployment** ||
+| 1. Construction and Testing | 5% | Tuesday, October 20, 2020 |  [Construction and Testing](../07-construction-testing/readings/readings.md) |
+| 2. Deployment | 5% | Tuesday, October 20, 2020 | tbd |
 | **Maintenance and Evolution**
 | 1. TBD | 5% | Tuesday, October 27, 2020 | [TBD]() |
 | **Software Engineering Projects** ||
