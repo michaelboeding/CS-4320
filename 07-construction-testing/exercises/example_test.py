@@ -3,8 +3,8 @@ import System
 
 #Tests if the program can handle a wrong username
 def test_login(grading_system):
-    username = 'thtrhg'
-    password =  'fhjhjdhjdfh'
+    username = 'akend3'
+    password =  '123454321'
     grading_system.login(username,password)
 
 

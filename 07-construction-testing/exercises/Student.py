@@ -35,5 +35,8 @@ class Student(User.User):
         return assignments
 
     def check_ontime(self,submission_date,due_date):
-        return True
+        if submission_date < due_date :
+            return True
+        else:
+            return False
 

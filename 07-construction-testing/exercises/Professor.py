@@ -2,6 +2,7 @@ import json
 import Staff
 
 
+
 class Professor(Staff.Staff):
     def __init__(self, name,users,courses):
         self.users = users
@@ -18,8 +19,8 @@ class Professor(Staff.Staff):
             assignments[key]['submission'] = "N/A"
             assignments[key]['ontime'] = "N/A"
             del assignments[key]['due_date']
-        self.users[self.name]['courses'][course] = assignments
-        self.update_user_db()
+        self.users[name]['courses'][course] = assignments
+        self.update_user_db(self)
 
     def drop_student(self, name, course):
         del self.users[name]['courses'][course]

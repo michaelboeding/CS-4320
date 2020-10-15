@@ -8,16 +8,16 @@ class Staff(User.User):
             json.dump(self.all_courses, fp)
 
     def create_assignment(self,assignment_name, due_date, course):
-        assignment = {
+        course = {
             assignment_name: {
                 'due_date': due_date
             }
         }
-        self.all_courses[course]['assignments'].update(assignment)
+        self.all_courses[course]['assignments'].update(course)
         self.update_course_db()
 
     def change_grade(self,user,course,assignment,grade):
-        self.users[user]['courses'][course][assignment]['grade'] = 0
+        user['courses'][course]['assignments'][assignment]['grade'][grade]
         self.update_user_db()
 
     def check_grades(self,name,course):
